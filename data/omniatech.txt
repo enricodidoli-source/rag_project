@@ -1,0 +1,118 @@
+# INTEGRATED OPERATING MANUAL AND COMPANY REGULATIONS
+- **Company:** OmniaTech Solutions S.p.A.
+- **Registered Office:** Viale dell'Innovazione 45, 20126 Milan (MI), Italy
+- **Approval Date:** September 1, 2026
+- **Effective Date:** September 15, 2026
+- **Document Version:** 10.5
+- **Drafted by:** Human Resources Department (HR) and Legal Department
+
+---
+
+## CHAPTER 1: INTRODUCTION AND COMPANY HISTORY
+
+### 1.1 Company Profile
+OmniaTech Solutions S.p.A. was founded on April 14, 2008 in Milan by founding partners Eng. Marco Rossi and Dr. Laura Bianchi. Initially established as a start-up for the development of management software for the manufacturing sector, the company expanded in 2015 by acquiring the cloud division of "CloudNet S.r.l." and in 2021 by opening its first foreign branch in Berlin, Germany.
+
+### 1.2 Mission and Values
+Our mission is to democratize access to artificial intelligence for small and medium-sized enterprises. Our three core values are: Environmental Sustainability (zero emissions target by 2030), Radical Transparency, and Continuous Innovation.
+
+## CHAPTER 2: WORKING HOURS, ATTENDANCE AND OVERTIME
+
+### 2.1 Flexible Hours
+Standard working hours are 40 hours per week, distributed from Monday to Friday. The company adopts a flexible entry and exit policy. The permitted entry window is from 08:00 to 10:00, while the exit window is from 17:00 to 19:00.
+
+### 2.2 Lunch Break
+The lunch break is mandatory by law if the daily working hours exceed 6 hours. The minimum duration of the break is 45 minutes, extendable up to a maximum of 90 minutes. The time slot during which the lunch break can be taken is between 12:30 and 14:30.
+
+### 2.3 Overtime Management
+Overtime work must be exceptional. To be compensated, it must be formally requested by the direct Line Manager with at least 48 hours' notice and approved via the "TimeSpace" portal. The maximum limit for allowed overtime is 10 hours per week and no more than 250 hours per year. Overtime hours worked on Saturdays are subject to a 25% surcharge, while those worked on Sundays or public holidays are subject to a 50% surcharge.
+
+### 2.4 Meal Vouchers
+All employees receive an electronic meal voucher worth 8.00 Euros for each working day in which at least 4 working hours have been performed. In the case of Smart Working, the value of the meal voucher drops to 5.00 Euros. Meal vouchers are loaded onto the "LunchCard" by the 10th day of the following month.
+
+## CHAPTER 3: ABSENCES, HOLIDAYS AND LEAVE
+
+### 3.1 Holiday Accrual and ROL (Working Time Reduction)
+Each full-time employee accrues 26 working days of holiday per year and 32 hours of ROL. Holidays must be taken for at least two consecutive weeks during the period between June 1 and September 30.
+
+### 3.2 Request and Approval
+Holiday requests exceeding 3 consecutive days must be entered into the HR system with at least 30 days' notice. For leave of less than 3 days, the required notice is 72 hours. Unused holiday balances at December 31 of the year following their accrual cannot be monetized, but must mandatorily be taken.
+
+### 3.3 Sick Leave
+In case of illness, the employee must notify their manager and the HR department (hr@omniatech.it) before the start time of their shift. The INPS (National Social Security Institute) medical certificate protocol number must be communicated to the company within 48 hours from the start of the absence. Failure to provide this communication will result in the absence being considered unjustified.
+
+### 3.4 Supplementary Parental Leave
+In addition to the provisions of current legislation, OmniaTech Solutions S.p.A. grants 15 additional working days of paid leave for the parent (father or mother) within the first year of the child's life or from the entry into the family in case of adoption.
+
+## CHAPTER 4: SMART WORKING (AGILE WORK) POLICY
+
+### 4.1 Monthly Quota and Limitations
+Employees who have passed the 6-month probationary period can join the Smart Working program. The maximum number of allowed remote working days is 12 days per month. These days are not cumulative: if not used in the reference calendar month, they are reset to zero.
+
+### 4.2 Domestic Utilities Reimbursement
+To cover expenses incurred for electricity and connectivity during Smart Working, the company grants a flat-rate net allowance in the payslip of 25.00 Euros per month for those who use at least 8 days of agile work in the month, and 12.50 Euros for those who use from 1 to 7 days.
+
+### 4.3 Workplace Safety
+During agile work, the employee commits to working in a suitable environment, free from risks to their health and safety. It is forbidden to work in unsafe public places (e.g., bars or trains) if the activities involve processing unencrypted sensitive data.
+
+## CHAPTER 5: BUSINESS TRIPS AND EXPENSE REIMBURSEMENTS
+
+### 5.1 Travel Authorization
+Trips are considered as such when the distance from the hiring location exceeds 50 km. All business trips must be authorized via the "TravelFlow" application prior to departure.
+
+### 5.2 Food Expense Limits
+The maximum reimbursable daily limits for meals are as follows:
+- Trips in Italy: Lunch max 25.00 Euros; Dinner max 40.00 Euros. (Daily total: 65.00 Euros).
+- Trips in Europe: Lunch max 35.00 Euros; Dinner max 55.00 Euros. (Daily total: 90.00 Euros).
+- Extra-EU Trips: Flat-rate daily total (Per Diem) of 120.00 Euros, without the need to submit receipts.
+
+Alcoholic beverages, with the exception of one glass of wine or beer during evening meals, are not reimbursable.
+
+### 5.3 Accommodation Expense Limits
+For Italy, a maximum limit of 140.00 Euros per night is allowed, breakfast included. For abroad, the limit is raised to 200.00 Euros. Expenses for minibar, pay-TV, or spa services in hotels are not reimbursable.
+
+### 5.4 Use of Own Car and Mileage Reimbursements
+If the employee is authorized to use their own vehicle, a mileage reimbursement will be granted based on the current ACI rates. To encourage sustainable mobility, the company applies a fixed rate of 0.40 Euros/km for petrol/diesel vehicles, and 0.55 Euros/km for 100% electric vehicles. The reimbursement includes wear and tear, fuel, and insurance; highway tolls and parking expenses will be reimbursed separately upon presentation of a receipt.
+
+## CHAPTER 6: IT SECURITY AND DEVICE USAGE (IT POLICY)
+
+### 6.1 Password Management
+Access to company systems is governed by strict criteria. Passwords must have a minimum length of 14 characters and contain at least one uppercase letter, one number, and one special character (e.g., !, ?, @, #). It is mandatory to change the password every 60 days. It is not possible to reuse any of the last 5 previously used passwords. Two-factor authentication (2FA) is mandatory for access to any portal.
+
+### 6.2 Hardware Restrictions
+It is strictly forbidden to connect personal USB flash drives, external hard drives, or other mass storage devices to company computers. The only allowed peripherals are those provided and encrypted by the company's IT department.
+
+### 6.3 Screen Lock and Clean Desk Policy
+If the employee leaves their workstation (even for a few minutes), they are obliged to lock the computer screen (shortcut: Windows Key + L / CMD + Ctrl + Q). At the end of the working day, no sensitive paper documents must be left on the desk; these must be stored in the appropriate locked cabinets.
+
+## CHAPTER 7: PERFORMANCE EVALUATION AND PERFORMANCE BONUSES (MBO)
+
+### 7.1 Annual Evaluation Cycle
+The performance evaluation (Performance Review) takes place annually between January 15 and February 15. The process involves self-assessment by the employee, followed by an individual interview with their direct manager.
+
+### 7.2 MBO System (Management by Objectives)
+For employees classified at the Middle Management (Quadro) level and above, a production bonus system linked to objectives (MBO) is provided. The maximum potential bonus is equal to 15% of the Gross Annual Salary (RAL). The bonus is calculated 50% on the achievement of company objectives (EBITDA) and 50% on the achievement of individual KPIs. The bonus is paid with the March payslip of the following year.
+
+## CHAPTER 8: DISCIPLINARY CODE AND SANCTIONS
+
+### 8.1 Disciplinary Measures
+In compliance with the Workers' Statute, the violation of company provisions entails the application of sanctions proportional to the severity of the infraction. The expected sanctions are, in order of severity:
+1. Verbal warning: for minor infractions (e.g., unjustified delay of less than 15 minutes twice in a month).
+2. Written warning: for recurrence of minor infractions or medium-scale shortcomings (e.g., failure to comply with basic IT policies).
+3. Fine: deduction from the payslip up to a maximum of 4 hours of normal pay. Applied in case of unjustified absence of 1 working day.
+4. Suspension from work and pay: for a maximum of 10 days. Applied for serious violations of the ethical code or insubordination towards a superior.
+5. Dismissal for just cause (without notice): for theft of company property, fraud, physical violence, or violation of the Non-Disclosure Agreement (NDA) towards third-party companies.
+
+### 8.2 Dispute Procedure
+The disciplinary dispute must be delivered in writing to the employee via registered mail with return receipt or PEC (Certified Email) within 10 days of the discovery of the fact. The employee has 5 working days from receipt to present their justifications or request a hearing accompanied by a union representative.
+
+## CHAPTER 9: TERMINATION OF EMPLOYMENT AND RESIGNATION
+
+### 9.1 Notice Period
+In case of voluntary resignation, the employee is required to respect the notice period set out in the relevant National Collective Labour Agreement (CCNL) based on their company seniority and classification level. Resignations must be submitted exclusively electronically via the Ministry of Labour portal.
+
+### 9.2 Failure to Provide Notice
+If the employee fails to respect all or part of the notice period, the company will deduct from the final settlement (Severance Pay - TFR and final dues) a sum corresponding to the remuneration for the unworked notice period.
+
+### 9.3 Return of Equipment
+The outgoing employee is obliged to return all company equipment (laptop, smartphone, badge, corporate credit card, electronic keys) no later than 12:00 PM on their last actual working day to the IT office and the HR office.

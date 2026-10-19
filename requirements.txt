@@ -1,0 +1,12 @@
+numpy
+optuna
+transformers
+accelerate
+sentence-transformers
+chromadb
+unstructured
+langchain-classic
+langchain-core
+langchain-community
+langchain-chroma
+langchain-huggingface

@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# Eventuali database locali o log di test salvati per errore
+*.db
+*.log
+vector_db/
